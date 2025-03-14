@@ -1,5 +1,5 @@
 <!-- markdownlint-disable -->
-# Navbar for Generals Asset
+# Navbar for Asset
 
 ## Asset
 - Art
